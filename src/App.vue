@@ -6,6 +6,7 @@
 
 <script>
 import CurrencyWidget from './components/CurrencyWidget.vue';
+import 'flag-icon-css/css/flag-icons.min.css';
 
 export default {
   name: 'App',
